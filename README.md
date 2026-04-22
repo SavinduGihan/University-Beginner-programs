@@ -1,2 +1,1 @@
-# First-programs
-My first C programs
+c-programming-practice
