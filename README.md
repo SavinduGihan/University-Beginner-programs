@@ -5,7 +5,7 @@ IN1101 Programming Fundamentals assignments
 University of Moratuwa | Faculty of IT | 2026  
 
 ## Status
-🔄 In Progress - Semester not completed yet
+In progress - 1st semester ongoing
 
 ## Programs
 - 254157R_1C - Assignment 1
@@ -24,6 +24,5 @@ University of Moratuwa | Faculty of IT | 2026
 - 254157R_14C - Assignment 14
 - 254157R_15C - Assignment 15
 
-## Built with
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## Language
+C Programming
